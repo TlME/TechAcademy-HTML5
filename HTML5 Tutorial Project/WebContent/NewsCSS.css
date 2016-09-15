@@ -28,3 +28,7 @@ body{
 nav{
 	background-color: #20416c;	
 }
+
+li a{
+	color: white;
+}
