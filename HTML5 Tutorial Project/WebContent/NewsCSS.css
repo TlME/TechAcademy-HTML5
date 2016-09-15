@@ -47,9 +47,11 @@ li{
 section{
 	background-color:#bbbbbb;
 	margin-top:10px;
+	padding: 5px;
 }
 
 article{
 	background-color: #fefefe;
 	margin-top: 5px;
+	padding: 10px 15px;
 }
