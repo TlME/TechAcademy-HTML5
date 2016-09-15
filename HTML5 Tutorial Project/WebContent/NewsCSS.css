@@ -59,3 +59,9 @@ article{
 main{
 	width: 640px;
 }
+
+aside{
+	background-color: #bbbbbb;
+	width: 270px;
+	float: right;
+}
