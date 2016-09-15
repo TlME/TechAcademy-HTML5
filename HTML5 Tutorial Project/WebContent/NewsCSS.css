@@ -45,7 +45,7 @@ li{
 }
 
 section{
-	background-color:#bbbbbb;
+	background-color:#EEE685;
 	margin-top:10px;
 	padding: 5px;
 }
@@ -63,7 +63,8 @@ main{
 }
 
 aside{
-	background-color: #bbbbbb;
+	background-color: #B0171F;
+	color: white;
 	width: 270px;
 	float: right;
 	padding: 20px;
