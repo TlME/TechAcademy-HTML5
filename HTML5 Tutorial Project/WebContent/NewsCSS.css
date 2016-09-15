@@ -71,4 +71,7 @@ aside{
 
 footer{
 	clear: both;
+	background-color: #20416c;
+	color: white;
+	padding: 5px 20px;
 }
