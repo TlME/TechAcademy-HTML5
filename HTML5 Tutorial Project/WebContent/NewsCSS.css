@@ -59,6 +59,7 @@ article{
 main{
 	width: 640px;
 	float: left;
+	margin-bottom: 10px;
 }
 
 aside{
